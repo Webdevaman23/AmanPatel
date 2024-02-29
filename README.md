@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Patel</h1>
 <h3 align="center">Unleashing the power of MERN stack for seamless web development. Transforming ideas into reality with MongoDB, Express, React, and Node.js synergy.</h3>
-<img align='right' src='https://giphy.com/embed/u2pmTWUi0MXjyrMaVj' />
+<img align='right' alt='Coding' width='400' src='https://giphy.com/embed/u2pmTWUi0MXjyrMaVj' />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdevaman23&label=Profile%20views&color=0e75b6&style=flat" alt="webdevaman23" /> </p>
 
