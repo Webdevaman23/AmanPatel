@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Blog-app**
 
-- 🌱 I’m currently learning **Redux/@redux-toolkit**
+- 🌱 I’m currently learning **Redux/@redux-toolkit / react-redux**
 
 - 💬 Ask me about **MERN Stack**
 
